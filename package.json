@@ -1,0 +1,19 @@
+{
+  "fitbit": {
+    "appUUID": "11ab3b0b-c560-4ce7-8dbe-326e5905e8d7",
+    "appType": "app",
+    "appDisplayName": "First Fitbit App",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "#8bc34a",
+    "requestedPermissions": [],
+    "buildTargets": [
+      "higgs",
+      "meson"
+    ],
+    "i18n": {
+      "en": {
+        "name": "First Fitbit App"
+      }
+    }
+  }
+}
